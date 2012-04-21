@@ -1,0 +1,10 @@
+name: MobPlates
+main: com.alphaatom.mobplates.MobPlates
+version: 0.03
+description: >
+             MobPlates for Minecraft!
+commands:
+  mplate:
+    description: Set up a specific pressure plate
+  mremove:
+    description: Removed a pressure plate
